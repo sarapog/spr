@@ -1,0 +1,45 @@
+* {
+    font-family: Garamond;
+}
+
+.baner {
+    background-color: SaddleBrown;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+
+.blok-lewy {
+    background-color: Tan;
+    height: 500px;
+    width: 40%;
+}
+
+.blok-prawy {
+    background-color: tan;
+    width: 60%;
+}
+
+.blok-pierwszy .blok-drugi {
+    height: 250px;
+}
+
+.stopka {
+    background-color: SaddleBrown;
+    color: white;
+}
+
+.kontent {
+    display: flex;
+}
+
+.in {
+    margin: 5px;
+}
+
+.form {
+    width: 300px;
+    background-color: saddlebrown;
+    padding: 10px 30px 10px 30px;
+    color: white;
+}
